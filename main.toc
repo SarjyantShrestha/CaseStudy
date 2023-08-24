@@ -1,5 +1,6 @@
 \contentsline {section}{Acknowledgment}{ii}{}%
-\contentsline {section}{Table of Contents}{ii}{}%
+\contentsline {section}{Acknowledgment}{iii}{}%
+\contentsline {section}{Table of Contents}{iii}{}%
 \contentsline {section}{\numberline {1}Introduction}{1}{}%
 \contentsline {subsection}{\numberline {1.1}About Organization}{1}{}%
 \contentsline {subsection}{\numberline {1.2}Main Ingredients for Bricks}{1}{}%

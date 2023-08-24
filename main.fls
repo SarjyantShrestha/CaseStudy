@@ -87,6 +87,9 @@ INPUT main.aux
 INPUT ./title.aux
 INPUT title.aux
 INPUT title.aux
+INPUT ./acknowledgement.aux
+INPUT acknowledgement.aux
+INPUT acknowledgement.aux
 OUTPUT main.aux
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 INPUT /usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
@@ -137,6 +140,16 @@ INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT ./acknowledgement.tex
+INPUT ./acknowledgement.tex
+INPUT ./acknowledgement.tex
+OUTPUT acknowledgement.aux
+INPUT ./acknowledgement.tex
+INPUT ./acknowledgement.tex
+INPUT ./acknowledgement.tex
+INPUT acknowledgement.tex
+INPUT ./acknowledgement.tex
+INPUT acknowledgement.tex
 INPUT ./main.toc
 INPUT main.toc
 INPUT main.toc
@@ -146,6 +159,9 @@ INPUT main.aux
 INPUT ./title.aux
 INPUT title.aux
 INPUT title.aux
+INPUT ./acknowledgement.aux
+INPUT acknowledgement.aux
+INPUT acknowledgement.aux
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb

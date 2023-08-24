@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  24 AUG 2023 21:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  24 AUG 2023 21:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -94,10 +94,10 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 31.
- [1
+) [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Khwopalogo.jpg>]) [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Khwopalogo.jpg>]
 \openout2 = `acknowledgement.aux'.
 
  (./acknowledgement.tex)
@@ -105,7 +105,7 @@ Overfull \hbox (3.86633pt too wide) in paragraph at lines 6--11
 \OT1/cmr/m/n/10 comprehensive understanding of the Gorkha Red Bricks pro-cess. Your willingness
  []
 
-[3
+[2
 
 
 
@@ -118,7 +118,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [4
+ [3
 
 
 ] [1] (./main.aux (./title.aux) (./acknowledgement.aux)) ) 
@@ -131,10 +131,10 @@ Here is how much of TeX's memory you used:
  26 hyphenation exceptions out of 8191
  57i,8n,62p,425b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (5 pages, 871385 bytes).
+Output written on main.pdf (4 pages, 871007 bytes).
 PDF statistics:
- 41 PDF objects out of 1000 (max. 8388607)
- 24 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  6 words of extra memory for PDF output out of 10000 (max. 10000000)
 

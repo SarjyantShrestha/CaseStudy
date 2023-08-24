@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1692891624 "/home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/main.tex" "main.pdf" "main" 1692891624 0
+["pdflatex"] 1692891692 "/home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/main.tex" "main.pdf" "main" 1692891692 0
   "/home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/main.tex" 1692889790 1549 80f3ea5cb6442d3c6dc1b725d10a6aea ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm" 1689853683 1328 c834bbb027764024c09d3d2bf908b5f0 ""
   "/usr/share/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1689853683 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -32,14 +32,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1689853683 40684 9b9ec0b4288972636ff6a3b9c4238efc ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1692879833 29871 18e04762487e39c9af1b8df78fcf191a ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1692880746 6768060 5d7f78fe20fa30ca2978b68c463f1277 ""
-  "acknowledgement.aux" 1692891624 519 ac2c734248de5d497837504b67b095f7 "pdflatex"
+  "acknowledgement.aux" 1692891692 518 adf685c22d28ea0d1d83f54548465c5e "pdflatex"
   "acknowledgement.tex" 1692889865 1698 82e9ffdbe0ee39a416711bbf447803ec ""
   "img/Khwopalogo.jpg" 1692884642 795735 22d731e25cf1497e5bc0801db9e1cca0 ""
-  "main.aux" 1692891624 1594 20668ca3733b9dbd171d1f13c593a473 "pdflatex"
+  "main.aux" 1692891692 1596 0319e98abff12010d15db8c9dca7b318 "pdflatex"
   "main.tex" 1692889790 1549 80f3ea5cb6442d3c6dc1b725d10a6aea ""
-  "main.toc" 1692891624 988 b79495496476a5767ec607779346e3d1 "pdflatex"
-  "title.aux" 1692891624 420 fc170ef9401b7671c261f3d98e2e502e "pdflatex"
-  "title.tex" 1692891623 1344 8e0933c3e94baa26ade42a8a83ce645d ""
+  "main.toc" 1692891692 989 532b7980534a3cdc0ce3dedde08edde8 "pdflatex"
+  "title.aux" 1692891692 420 bd94ac18873a6e792230e801e63c653c "pdflatex"
+  "title.tex" 1692891691 1344 351600d89ba061c7157b18130572312a ""
   (generated)
   "acknowledgement.aux"
   "main.aux"

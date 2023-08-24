@@ -1,0 +1,14 @@
+\contentsline {section}{Acknowledgment}{ii}{}%
+\contentsline {section}{Table of Contents}{ii}{}%
+\contentsline {section}{\numberline {1}Introduction}{1}{}%
+\contentsline {subsection}{\numberline {1.1}About Organization}{1}{}%
+\contentsline {subsection}{\numberline {1.2}Main Ingredients for Bricks}{1}{}%
+\contentsline {subsection}{\numberline {1.3}Production Process}{1}{}%
+\contentsline {section}{\numberline {2}Brick Manufacturing Process}{1}{}%
+\contentsline {subsection}{\numberline {2.1}Block Diagram}{1}{}%
+\contentsline {subsection}{\numberline {2.2}Process Flow for Brick Manufacture}{1}{}%
+\contentsline {section}{\numberline {3}Recommendations of the System}{1}{}%
+\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{1}{}%
+\contentsline {section}{\numberline {4}Discussion and Conclusion}{1}{}%
+\contentsline {section}{\numberline {5}Photo Gallery}{1}{}%
+\contentsline {section}{\numberline {6}References}{1}{}%

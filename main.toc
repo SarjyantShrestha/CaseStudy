@@ -6,8 +6,8 @@
 \contentsline {section}{\numberline {2}Brick Manufacturing Process}{4}{}%
 \contentsline {subsection}{\numberline {2.1}Block Diagram}{4}{}%
 \contentsline {subsection}{\numberline {2.2}Process Flow for Brick Manufacture}{4}{}%
-\contentsline {section}{\numberline {3}Recommendations of the System}{5}{}%
-\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{5}{}%
-\contentsline {section}{\numberline {4}Discussion and Conclusion}{5}{}%
-\contentsline {section}{\numberline {5}Photo Gallery}{5}{}%
-\contentsline {section}{\numberline {6}References}{5}{}%
+\contentsline {section}{\numberline {3}Recommendations of the System}{6}{}%
+\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{6}{}%
+\contentsline {section}{\numberline {4}Discussion and Conclusion}{6}{}%
+\contentsline {section}{\numberline {5}Photo Gallery}{6}{}%
+\contentsline {section}{\numberline {6}References}{6}{}%

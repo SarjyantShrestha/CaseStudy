@@ -227,4 +227,93 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: img/block diagram.png Graphic file (type png)
 <use img/block diagram.png>
 Package pdftex.def Info: img/block diagram.png  used on input line 8.
-(pdftex.def)             Requested size: 455.24411pt 
+(pdftex.def)             Requested size: 455.24411pt x 370.24278pt.
+ [3
+
+
+
+ <./img/block diagram.png>] [4]) [5]
+\openout2 = `content/photos.aux'.
+
+ (./content/photos.tex
+<img/photos/IMG_7624.HEIC.png, id=36, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7624.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7624.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7624.HEIC.png  used on input line 5.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7625.HEIC.png, id=37, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7625.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7625.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7625.HEIC.png  used on input line 6.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7629.HEIC.png, id=38, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7629.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7629.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7629.HEIC.png  used on input line 9.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7634.HEIC.png, id=39, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7634.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7634.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7634.HEIC.png  used on input line 10.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7627.HEIC.png, id=40, 3035.34pt x 4047.12pt>
+File: img/photos/IMG_7627.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7627.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7627.HEIC.png  used on input line 13.
+(pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
+<img/photos/IMG_7636.HEIC.png, id=41, 3035.34pt x 4047.12pt>
+File: img/photos/IMG_7636.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7636.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7636.HEIC.png  used on input line 14.
+(pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
+ [6
+
+
+
+ <./img/photos/IMG_7624.HEIC.png> <./img/photos/IMG_7625.HEIC.png> <./img/photos/IMG_7629.HEIC.png> <./img/photos/IMG_7634.HEIC.png> <./img/photos/IMG_7627.HEIC.png> <./img/photos/IMG_7636.HEIC.png>]
+File: img/photos/IMG_7624.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7624.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7624.HEIC.png  used on input line 20.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+File: img/photos/IMG_7625.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7625.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7625.HEIC.png  used on input line 21.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+File: img/photos/IMG_7629.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7629.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7629.HEIC.png  used on input line 24.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+File: img/photos/IMG_7634.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7634.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7634.HEIC.png  used on input line 25.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7638.HEIC.png, id=45, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7638.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7638.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7638.HEIC.png  used on input line 28.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+<img/photos/IMG_7641.HEIC.png, id=46, 4047.12pt x 3035.34pt>
+File: img/photos/IMG_7641.HEIC.png Graphic file (type png)
+<use img/photos/IMG_7641.HEIC.png>
+Package pdftex.def Info: img/photos/IMG_7641.HEIC.png  used on input line 29.
+(pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+) [7 <./img/photos/IMG_7638.HEIC.png> <./img/photos/IMG_7641.HEIC.png>] [8
+
+
+] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/photos.aux)) ) 
+Here is how much of TeX's memory you used:
+ 2303 strings out of 477985
+ 41450 string characters out of 5840058
+ 1858388 words of memory out of 5000000
+ 22440 multiletter control sequences out of 15000+600000
+ 520138 words of font info for 57 fonts, out of 8000000 for 9000
+ 26 hyphenation exceptions out of 8191
+ 57i,8n,62p,935b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (11 pages, 166561278 bytes).
+PDF statistics:
+ 73 PDF objects out of 1000 (max. 8388607)
+ 40 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+

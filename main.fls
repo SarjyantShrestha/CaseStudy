@@ -190,11 +190,11 @@ INPUT main.toc
 INPUT main.toc
 INPUT /usr/share/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT main.toc
-INPUT ./img/Blank diagram.png
-INPUT ./img/Blank diagram.png
-INPUT img/Blank diagram.png
-INPUT ./img/Blank diagram.png
-INPUT ./img/Blank diagram.png
+INPUT ./img/block diagram.png
+INPUT ./img/block diagram.png
+INPUT img/block diagram.png
+INPUT ./img/block diagram.png
+INPUT ./img/block diagram.png
 INPUT main.aux
 INPUT ./title.aux
 INPUT title.aux

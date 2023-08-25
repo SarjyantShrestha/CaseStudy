@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  24 AUG 2023 23:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 07:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -175,12 +175,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 39--83
  []
 
 [2] [3]
-<img/blank diagram.png, id=26, 3202.96625pt x 2251.41125pt>
-File: img/blank diagram.png Graphic file (type png)
-<use img/blank diagram.png>
-Package pdftex.def Info: img/blank diagram.png  used on input line 92.
-(pdftex.def)             Requested size: 397.485pt x 279.39885pt.
- [4 <./img/Blank diagram.png>] [5] (./main.aux (./title.aux) (./acknowledgement.aux)) ) 
+<img/block diagram.png, id=26, 599.841pt x 487.8225pt>
+File: img/block diagram.png Graphic file (type png)
+<use img/block diagram.png>
+Package pdftex.def Info: img/block diagram.png  used on input line 92.
+(pdftex.def)             Requested size: 397.485pt x 323.26646pt.
+ [4 <./img/block diagram.png>] [5] (./main.aux (./title.aux) (./acknowledgement.aux)) ) 
 Here is how much of TeX's memory you used:
  1957 strings out of 477985
  32178 string characters out of 5840058
@@ -190,7 +190,7 @@ Here is how much of TeX's memory you used:
  26 hyphenation exceptions out of 8191
  57i,8n,62p,695b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (8 pages, 1054596 bytes).
+Output written on main.pdf (8 pages, 1084210 bytes).
 PDF statistics:
  55 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream

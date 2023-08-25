@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 20:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 22:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -67,40 +67,50 @@ Package: changepage 2009/10/20 v1.0c check page and change page layout
 \cp@tempcnt=\count197
 ) (/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
+) (/usr/share/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count198
+\float@exts=\toks18
+\float@box=\box51
+\@float@everytoks=\toks19
+\@floatcapt=\box52
+) (/usr/share/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count198
-\l__pdf_internal_box=\box51
-) (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/photos.aux))
+\l__color_backend_stack_int=\count199
+\l__pdf_internal_box=\box53
+) (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux))
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
  (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count199
+\scratchcounter=\count266
 \scratchdimen=\dimen151
-\scratchbox=\box52
-\nofMPsegments=\count266
-\nofMParguments=\count267
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count268
+\scratchbox=\box54
+\nofMPsegments=\count267
+\nofMParguments=\count268
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count269
 \MPscratchDim=\dimen152
-\MPnumerator=\count269
-\makeMPintoPDFobject=\count270
-\everyMPtoPDFconversion=\toks19
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
+\everyMPtoPDFconversion=\toks21
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -143,14 +153,14 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 \symgns@font=\mathgroup4
 LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
-(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 8.
-Package gensymb Info: Math companion symbols declared on input line 8.
-LaTeX Info: Redefining \degree on input line 8.
-LaTeX Info: Redefining \celsius on input line 8.
-Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 8.
-LaTeX Info: Redefining \ohm on input line 8.
-Package gensymb Info: Using \textohm for \ohm on input line 8.
-Package gensymb Info: Using \textmu for \micro on input line 8.
+(Font)                  TS1/cmr/m/n --> TS1/cmr/b/n on input line 10.
+Package gensymb Info: Math companion symbols declared on input line 10.
+LaTeX Info: Redefining \degree on input line 10.
+LaTeX Info: Redefining \celsius on input line 10.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \perthousand on input line 10.
+LaTeX Info: Redefining \ohm on input line 10.
+Package gensymb Info: Using \textohm for \ohm on input line 10.
+Package gensymb Info: Using \textmu for \micro on input line 10.
 \openout2 = `content/title.aux'.
 
 (./content/title.tex
@@ -232,7 +242,11 @@ Package pdftex.def Info: img/block diagram.png  used on input line 8.
 
 
 
- <./img/block diagram.png>] [4]) [5] [6
+ <./img/block diagram.png>] [4]) [5]
+\openout2 = `content/Discussion.aux'.
+
+ (./content/Discussion.tex) [6
+
 
 
 ]
@@ -271,6 +285,8 @@ Package pdftex.def Info: img/photos/IMG_7636.HEIC.png  used on input line 14.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
  [7
 
+
+
  <./img/photos/IMG_7624.HEIC.png> <./img/photos/IMG_7625.HEIC.png> <./img/photos/IMG_7629.HEIC.png> <./img/photos/IMG_7634.HEIC.png> <./img/photos/IMG_7627.HEIC.png> <./img/photos/IMG_7636.HEIC.png>]
 <img/photos/IMG_7640.HEIC.png, id=48, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7640.HEIC.png Graphic file (type png)
@@ -302,10 +318,6 @@ File: img/photos/IMG_7641.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7641.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7641.HEIC.png  used on input line 29.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 <img/photos/IMG_7647.HEIC.png, id=54, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7647.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7647.HEIC.png>
@@ -336,23 +348,29 @@ File: img/photos/IMG_7662.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7662.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7662.HEIC.png  used on input line 43.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
+) [8 <./img/photos/IMG_7640.HEIC.png> <./img/photos/IMG_7642.HEIC.png> <./img/photos/IMG_7644.HEIC.png> <./img/photos/IMG_7665.HEIC.png> <./img/photos/IMG_7638.HEIC.png> <./img/photos/IMG_7641.HEIC.png>] [9 <./img/photos/IMG_7647.HEIC.png> <./img/photos/IMG_7663.HEIC.png> <./img/photos/IMG_7655.HEIC.png> <./img/photos/IMG_7658.HEIC.png> <./img/photos/IMG_7660.HEIC.png> <./img/photos/IMG_7662.HEIC.png>]
+\openout2 = `content/References.aux'.
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+ (./content/References.tex
+Overfull \hbox (13.38019pt too wide) in paragraph at lines 5--7
+\OT1/cmr/m/n/12 https://civiltoday.com/civil-engineering-materials/brick/132-brick-composition-ingredients-
+ []
 
-) [8 <./img/photos/IMG_7640.HEIC.png> <./img/photos/IMG_7642.HEIC.png> <./img/photos/IMG_7644.HEIC.png> <./img/photos/IMG_7665.HEIC.png> <./img/photos/IMG_7638.HEIC.png> <./img/photos/IMG_7641.HEIC.png>] [9 <./img/photos/IMG_7647.HEIC.png> <./img/photos/IMG_7663.HEIC.png> <./img/photos/IMG_7655.HEIC.png> <./img/photos/IMG_7658.HEIC.png> <./img/photos/IMG_7660.HEIC.png> <./img/photos/IMG_7662.HEIC.png>] [10
+) [10
 
 
-] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/photos.aux)) ) 
+
+] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux)) ) 
 Here is how much of TeX's memory you used:
- 2373 strings out of 477985
- 43610 string characters out of 5840058
+ 2592 strings out of 477985
+ 48058 string characters out of 5840058
  1858388 words of memory out of 5000000
- 22500 multiletter control sequences out of 15000+600000
+ 22697 multiletter control sequences out of 15000+600000
  520138 words of font info for 57 fonts, out of 8000000 for 9000
  26 hyphenation exceptions out of 8191
- 57i,8n,62p,935b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,8n,62p,935b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (13 pages, 356067448 bytes).
+Output written on main.pdf (13 pages, 356069373 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

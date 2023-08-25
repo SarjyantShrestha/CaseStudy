@@ -2,17 +2,22 @@
 \contentsline {section}{Table of Contents}{iii}{}%
 \contentsline {section}{\numberline {1}Introduction}{1}{}%
 \contentsline {subsection}{\numberline {1.1}About Organization}{1}{}%
-\contentsline {subsection}{\numberline {1.2}Composition of bricks: Function of ingredients}{2}{}%
-\contentsline {section}{\numberline {2}Brick Manufacturing Process}{4}{}%
-\contentsline {subsection}{\numberline {2.1}Block Diagram}{4}{}%
-\contentsline {subsection}{\numberline {2.2}Process Flow for Brick Manufacture}{4}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Clay Processing}{5}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}Cake Molding}{5}{}%
-\contentsline {subsubsection}{\numberline {2.2.3}Drying}{5}{}%
-\contentsline {subparagraph}{Natural Drying}{5}{}%
-\contentsline {subparagraph}{Preheating}{5}{}%
-\contentsline {section}{\numberline {3}Recommendations of the System}{7}{}%
-\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{7}{}%
-\contentsline {section}{\numberline {4}Discussion and Conclusion}{7}{}%
-\contentsline {section}{\numberline {5}Photo Gallery}{7}{}%
-\contentsline {section}{\numberline {6}References}{7}{}%
+\contentsline {subsection}{\numberline {1.2}Composition of Bricks: Ingredients and Functions}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Ingredients and Percentages}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Chief Ingredients and Functions}{2}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Harmful Ingredients}{2}{}%
+\contentsline {section}{\numberline {2}Brick Manufacturing Process}{3}{}%
+\contentsline {subsection}{\numberline {2.1}Block Diagram}{3}{}%
+\contentsline {subsection}{\numberline {2.2}Process Flow for Brick Manufacture}{3}{}%
+\contentsline {subsubsection}{\numberline {2.2.1}Clay Processing}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.2}Cake Molding}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.3}Drying}{4}{}%
+\contentsline {subparagraph}{Natural Drying}{4}{}%
+\contentsline {subparagraph}{Preheating}{4}{}%
+\contentsline {subsubsection}{\numberline {2.2.4}Firing}{5}{}%
+\contentsline {subsubsection}{\numberline {2.2.5}Gradual Cooling and Loading}{5}{}%
+\contentsline {section}{\numberline {3}Recommendations of the System}{6}{}%
+\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{6}{}%
+\contentsline {section}{\numberline {4}Discussion and Conclusion}{6}{}%
+\contentsline {section}{\numberline {5}Photo Gallery}{6}{}%
+\contentsline {section}{\numberline {6}References}{6}{}%

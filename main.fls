@@ -1,7 +1,7 @@
-PWD /home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/CaseStudy
+PWD /home/rapzy/Downloads/caseStudy/CaseStudy
 INPUT /usr/share/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/CaseStudy/main.tex
+INPUT /home/rapzy/Downloads/caseStudy/CaseStudy/main.tex
 OUTPUT main.log
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texmf-dist/tex/latex/base/article.cls
@@ -346,26 +346,3 @@ INPUT ./img/photos/IMG_7641.HEIC.png
 INPUT img/photos/IMG_7641.HEIC.png
 INPUT ./img/photos/IMG_7641.HEIC.png
 INPUT ./img/photos/IMG_7641.HEIC.png
-INPUT main.aux
-INPUT ./content/title.aux
-INPUT content/title.aux
-INPUT content/title.aux
-INPUT ./content/acknowledgement.aux
-INPUT content/acknowledgement.aux
-INPUT content/acknowledgement.aux
-INPUT ./content/about.aux
-INPUT content/about.aux
-INPUT content/about.aux
-INPUT ./content/composition.aux
-INPUT content/composition.aux
-INPUT content/composition.aux
-INPUT ./content/blockdiagram.aux
-INPUT content/blockdiagram.aux
-INPUT content/blockdiagram.aux
-INPUT ./content/photos.aux
-INPUT content/photos.aux
-INPUT content/photos.aux
-INPUT /home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
-INPUT /usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb

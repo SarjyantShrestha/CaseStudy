@@ -1,16 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.5) (preloaded format=pdflatex 2023.8.25)  25 AUG 2023 13:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 18:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/sarjy/Downloads/case study/CaseStudy/main.tex"
-(c:/Users/sarjy/Downloads/case study/CaseStudy/main.tex
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
-(C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
-(C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
-File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+**"/home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/CaseStudy/main.tex"
+(/home/rapzy/Downloads/caseStudy/Gorkha Eco Red Bricks/CaseStudy/main.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -23,31 +22,31 @@ File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
-\KV@toks@=\toks17
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+\KV@toks@=\toks16
+) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+ (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+ (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+ (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+ (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
@@ -61,18 +60,18 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layoutheight=\dimen148
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
-\Gm@dimlist=\toks18
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/changepage\changepage.sty
+\Gm@dimlist=\toks17
+) (/usr/share/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count196
 \cp@tempcnt=\count197
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+) (/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
+) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count198
 \l__pdf_internal_box=\box51
-) (main.aux (content/title.aux) (content/acknowledgement.aux) (content/about.aux) (content/composition.aux) (content/blockdiagram.aux))
+) (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
@@ -89,24 +88,24 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
 LaTeX Font Info:    ... okay on input line 9.
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+ (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count199
 \scratchdimen=\dimen151
 \scratchbox=\box52
 \nofMPsegments=\count266
 \nofMParguments=\count267
-\everyMPshowfont=\toks19
+\everyMPshowfont=\toks18
 \MPscratchCnt=\count268
 \MPscratchDim=\dimen152
 \MPnumerator=\count269
 \makeMPintoPDFobject=\count270
-\everyMPtoPDFconversion=\toks20
-) (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+\everyMPtoPDFconversion=\toks19
+) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (C:\Users\sarjy\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+ (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -154,7 +153,7 @@ Package gensymb Info: Using \textohm for \ohm on input line 9.
 Package gensymb Info: Using \textmu for \micro on input line 9.
 \openout2 = `content/title.aux'.
 
-(content/title.tex
+(./content/title.tex
 <img/Khwopalogo.jpg, id=1, 101.178pt x 101.178pt>
 File: img/Khwopalogo.jpg Graphic file (type jpg)
 <use img/Khwopalogo.jpg>
@@ -187,14 +186,14 @@ Overfull \hbox (16.27335pt too wide) in paragraph at lines 35--36
 ) [1
 
 
-{C:/Users/sarjy/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./img/Khwopalogo.jpg>]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Khwopalogo.jpg>]
 \openout2 = `content/acknowledgement.aux'.
 
- (content/acknowledgement.tex) [2
+ (./content/acknowledgement.tex) [2
 
 
 
-] (main.toc
+] (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -211,20 +210,20 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ]
 \openout2 = `content/about.aux'.
 
- (content/about.tex) [1
+ (./content/about.tex) [1
 
 ]
 \openout2 = `content/composition.aux'.
 
- (content/composition.tex) [2
+ (./content/composition.tex) [2
 
 
 
 ]
 \openout2 = `content/blockdiagram.aux'.
 
- (content/blockdiagram.tex
-<img/block diagram.png, id=21, 599.841pt x 487.8225pt>
+ (./content/blockdiagram.tex
+<img/block diagram.png, id=22, 599.841pt x 487.8225pt>
 File: img/block diagram.png Graphic file (type png)
 <use img/block diagram.png>
 Package pdftex.def Info: img/block diagram.png  used on input line 8.
@@ -236,24 +235,20 @@ Package pdftex.def Info: img/block diagram.png  used on input line 8.
  <./img/block diagram.png>] [4]) [5] [6
 
 
-] (main.aux (content/title.aux) (content/acknowledgement.aux) (content/about.aux) (content/composition.aux) (content/blockdiagram.aux))
- ***********
-LaTeX2e <2023-06-01> patch level 1
-L3 programming layer <2023-08-11>
- ***********
- ) 
+] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux)) ) 
 Here is how much of TeX's memory you used:
- 2195 strings out of 475503
- 39225 string characters out of 5761834
- 1925248 words of memory out of 5000000
- 23418 multiletter control sequences out of 15000+600000
- 565920 words of font info for 61 fonts, out of 8000000 for 9000
- 1153 hyphenation exceptions out of 8191
- 57i,8n,65p,941b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\sarjy\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/sarjy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/sarjy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/sarjy/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (9 pages, 1071807 bytes).
+ 2218 strings out of 477985
+ 38886 string characters out of 5840058
+ 1858388 words of memory out of 5000000
+ 22371 multiletter control sequences out of 15000+600000
+ 520138 words of font info for 57 fonts, out of 8000000 for 9000
+ 26 hyphenation exceptions out of 8191
+ 57i,8n,62p,959b,333s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on main.pdf (9 pages, 1066950 bytes).
 PDF statistics:
- 57 PDF objects out of 1000 (max. 8388607)
+ 59 PDF objects out of 1000 (max. 8388607)
+ 36 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

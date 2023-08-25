@@ -16,8 +16,9 @@
 \contentsline {subparagraph}{Preheating}{4}{}%
 \contentsline {subsubsection}{\numberline {2.2.4}Firing}{5}{}%
 \contentsline {subsubsection}{\numberline {2.2.5}Gradual Cooling and Loading}{5}{}%
-\contentsline {section}{\numberline {3}Recommendations of the System}{6}{}%
-\contentsline {subsection}{\numberline {3.1}For Packaging of Bricks}{6}{}%
-\contentsline {section}{\numberline {4}Discussion and Conclusion}{6}{}%
-\contentsline {section}{\numberline {5}Photo Gallery}{6}{}%
-\contentsline {section}{\numberline {6}References}{6}{}%
+\contentsline {section}{\numberline {3}Photo Gallery}{6}{}%
+\contentsline {section}{\numberline {4}Recommendations of the System}{8}{}%
+\contentsline {subsection}{\numberline {4.1}For Packaging of Bricks}{8}{}%
+\contentsline {section}{\numberline {5}Discussion and Conclusion}{8}{}%
+\contentsline {section}{\numberline {6}Photo Gallery}{8}{}%
+\contentsline {section}{\numberline {7}References}{8}{}%

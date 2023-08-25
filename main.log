@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 22:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 22:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -167,29 +167,29 @@ Package gensymb Info: Using \textmu for \micro on input line 10.
 <img/Khwopalogo.jpg, id=1, 101.178pt x 101.178pt>
 File: img/Khwopalogo.jpg Graphic file (type jpg)
 <use img/Khwopalogo.jpg>
-Package pdftex.def Info: img/Khwopalogo.jpg  used on input line 13.
+Package pdftex.def Info: img/Khwopalogo.jpg  used on input line 12.
 (pdftex.def)             Requested size: 136.57462pt x 136.58128pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 31.
+(Font)              <14.4> on input line 30.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 30.
 
-Overfull \hbox (16.27335pt too wide) in paragraph at lines 32--33
+Overfull \hbox (16.27335pt too wide) in paragraph at lines 31--32
 []\OT1/cmr/m/n/14.4 KCE077BCT020| 
  []
 
 
-Overfull \hbox (16.27335pt too wide) in paragraph at lines 33--34
+Overfull \hbox (16.27335pt too wide) in paragraph at lines 32--33
 []\OT1/cmr/m/n/14.4 KCE077BCT028| 
  []
 
 
-Overfull \hbox (16.27335pt too wide) in paragraph at lines 34--35
+Overfull \hbox (16.27335pt too wide) in paragraph at lines 33--34
 []\OT1/cmr/m/n/14.4 KCE077BCT033| 
  []
 
 
-Overfull \hbox (16.27335pt too wide) in paragraph at lines 35--36
+Overfull \hbox (16.27335pt too wide) in paragraph at lines 34--35
 []\OT1/cmr/m/n/14.4 KCE077BCT036| 
  []
 
@@ -370,7 +370,7 @@ Here is how much of TeX's memory you used:
  26 hyphenation exceptions out of 8191
  57i,8n,62p,935b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (13 pages, 356069376 bytes).
+Output written on main.pdf (13 pages, 356069389 bytes).
 PDF statistics:
  90 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

@@ -1,14 +1,14 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.8.24)  25 AUG 2023 22:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.6.2)  26 AUG 2023 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/rapzy/Downloads/caseStudy/CaseStudy/main.tex
-(/home/rapzy/Downloads/caseStudy/CaseStudy/main.tex
+**"e:/Case Study-Instru/CaseStudy/main.tex"
+(e:/Case Study-Instru/CaseStudy/main.tex
 LaTeX2e <2022-11-01> patch level 1
-L3 programming layer <2023-02-22> (/usr/share/texmf-dist/tex/latex/base/article.cls
+L3 programming layer <2023-05-22> (c:/texlive/2023/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size12.clo
+(c:/texlive/2023/texmf-dist/tex/latex/base/size12.clo
 File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
@@ -22,31 +22,31 @@ File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
-) (/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
-) (/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
- (/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
-) (/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+) (c:/texlive/2023/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
- (/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+ (c:/texlive/2023/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
-) (/usr/share/texmf-dist/tex/latex/base/textcomp.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
-) (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (/usr/share/texmf-dist/tex/generic/iftex/ifvtex.sty
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+ (c:/texlive/2023/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
 \Gm@cnth=\count193
@@ -61,27 +61,27 @@ Package: iftex 2022/02/03 v1.0f TeX engine tests
 \Gm@layouthoffset=\dimen149
 \Gm@layoutvoffset=\dimen150
 \Gm@dimlist=\toks17
-) (/usr/share/texmf-dist/tex/latex/changepage/changepage.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
 \c@cp@cntr=\count196
 \cp@tempcnt=\count197
-) (/usr/share/texmf-dist/tex/latex/gensymb/gensymb.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/gensymb/gensymb.sty
 Package: gensymb 2022/10/17 v1.0.2 (KJH)
-) (/usr/share/texmf-dist/tex/latex/float/float.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count198
 \float@exts=\toks18
 \float@box=\box51
 \@float@everytoks=\toks19
 \@floatcapt=\box52
-) (/usr/share/texmf-dist/tex/latex/url/url.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-) (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
+) (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-04-19 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box53
-) (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux))
+) (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/ProposedSystem.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
@@ -98,7 +98,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (c:/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count266
 \scratchdimen=\dimen151
@@ -111,10 +111,10 @@ LaTeX Font Info:    ... okay on input line 10.
 \MPnumerator=\count270
 \makeMPintoPDFobject=\count271
 \everyMPtoPDFconversion=\toks21
-) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+) (c:/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
- (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+ (c:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 *geometry* driver: auto-detecting
@@ -196,7 +196,7 @@ Overfull \hbox (16.27335pt too wide) in paragraph at lines 34--35
 ) [1
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./img/Khwopalogo.jpg>]
+{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./img/Khwopalogo.jpg>]
 \openout2 = `content/acknowledgement.aux'.
 
  (./content/acknowledgement.tex) [2
@@ -229,7 +229,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-]
+{c:/texlive/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 \openout2 = `content/blockdiagram.aux'.
 
  (./content/blockdiagram.tex
@@ -243,9 +243,22 @@ Package pdftex.def Info: img/block diagram.png  used on input line 8.
 
 
  <./img/block diagram.png>] [4]) [5]
+\openout2 = `content/ProposedSystem.aux'.
+
+ (./content/ProposedSystem.tex
+<img/fc.jpg, id=36, 1608.0075pt x 1246.6575pt>
+File: img/fc.jpg Graphic file (type jpg)
+<use img/fc.jpg>
+Package pdftex.def Info: img/fc.jpg  used on input line 15.
+(pdftex.def)             Requested size: 455.24411pt x 352.94229pt.
+ [6
+
+
+
+ <./img/fc.jpg>]) [7]
 \openout2 = `content/Discussion.aux'.
 
- (./content/Discussion.tex) [6
+ (./content/Discussion.tex) [8
 
 
 
@@ -253,102 +266,102 @@ Package pdftex.def Info: img/block diagram.png  used on input line 8.
 \openout2 = `content/photos.aux'.
 
  (./content/photos.tex
-<img/photos/IMG_7624.HEIC.png, id=39, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7624.HEIC.png, id=46, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7624.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7624.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7624.HEIC.png  used on input line 5.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7625.HEIC.png, id=40, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7625.HEIC.png, id=47, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7625.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7625.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7625.HEIC.png  used on input line 6.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7629.HEIC.png, id=41, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7629.HEIC.png, id=48, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7629.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7629.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7629.HEIC.png  used on input line 9.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7634.HEIC.png, id=42, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7634.HEIC.png, id=49, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7634.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7634.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7634.HEIC.png  used on input line 10.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7627.HEIC.png, id=43, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7627.HEIC.png, id=50, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7627.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7627.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7627.HEIC.png  used on input line 13.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7636.HEIC.png, id=44, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7636.HEIC.png, id=51, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7636.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7636.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7636.HEIC.png  used on input line 14.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
- [7
+ [9
 
 
 
  <./img/photos/IMG_7624.HEIC.png> <./img/photos/IMG_7625.HEIC.png> <./img/photos/IMG_7629.HEIC.png> <./img/photos/IMG_7634.HEIC.png> <./img/photos/IMG_7627.HEIC.png> <./img/photos/IMG_7636.HEIC.png>]
-<img/photos/IMG_7640.HEIC.png, id=48, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7640.HEIC.png, id=55, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7640.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7640.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7640.HEIC.png  used on input line 20.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7642.HEIC.png, id=49, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7642.HEIC.png, id=56, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7642.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7642.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7642.HEIC.png  used on input line 21.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7644.HEIC.png, id=50, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7644.HEIC.png, id=57, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7644.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7644.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7644.HEIC.png  used on input line 24.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7665.HEIC.png, id=51, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7665.HEIC.png, id=58, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7665.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7665.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7665.HEIC.png  used on input line 25.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7638.HEIC.png, id=52, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7638.HEIC.png, id=59, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7638.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7638.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7638.HEIC.png  used on input line 28.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7641.HEIC.png, id=53, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7641.HEIC.png, id=60, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7641.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7641.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7641.HEIC.png  used on input line 29.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7647.HEIC.png, id=54, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7647.HEIC.png, id=61, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7647.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7647.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7647.HEIC.png  used on input line 34.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7663.HEIC.png, id=55, 3035.34pt x 4047.12pt>
+<img/photos/IMG_7663.HEIC.png, id=62, 3035.34pt x 4047.12pt>
 File: img/photos/IMG_7663.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7663.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7663.HEIC.png  used on input line 35.
 (pdftex.def)             Requested size: 182.09486pt x 242.75497pt.
-<img/photos/IMG_7655.HEIC.png, id=56, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7655.HEIC.png, id=63, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7655.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7655.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7655.HEIC.png  used on input line 38.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7658.HEIC.png, id=57, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7658.HEIC.png, id=64, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7658.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7658.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7658.HEIC.png  used on input line 39.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7660.HEIC.png, id=58, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7660.HEIC.png, id=65, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7660.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7660.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7660.HEIC.png  used on input line 42.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-<img/photos/IMG_7662.HEIC.png, id=59, 4047.12pt x 3035.34pt>
+<img/photos/IMG_7662.HEIC.png, id=66, 4047.12pt x 3035.34pt>
 File: img/photos/IMG_7662.HEIC.png Graphic file (type png)
 <use img/photos/IMG_7662.HEIC.png>
 Package pdftex.def Info: img/photos/IMG_7662.HEIC.png  used on input line 43.
 (pdftex.def)             Requested size: 182.09486pt x 136.53809pt.
-) [8 <./img/photos/IMG_7640.HEIC.png> <./img/photos/IMG_7642.HEIC.png> <./img/photos/IMG_7644.HEIC.png> <./img/photos/IMG_7665.HEIC.png> <./img/photos/IMG_7638.HEIC.png> <./img/photos/IMG_7641.HEIC.png>] [9 <./img/photos/IMG_7647.HEIC.png> <./img/photos/IMG_7663.HEIC.png> <./img/photos/IMG_7655.HEIC.png> <./img/photos/IMG_7658.HEIC.png> <./img/photos/IMG_7660.HEIC.png> <./img/photos/IMG_7662.HEIC.png>]
+) [10 <./img/photos/IMG_7640.HEIC.png> <./img/photos/IMG_7642.HEIC.png> <./img/photos/IMG_7644.HEIC.png> <./img/photos/IMG_7665.HEIC.png> <./img/photos/IMG_7638.HEIC.png> <./img/photos/IMG_7641.HEIC.png>] [11 <./img/photos/IMG_7647.HEIC.png> <./img/photos/IMG_7663.HEIC.png> <./img/photos/IMG_7655.HEIC.png> <./img/photos/IMG_7658.HEIC.png> <./img/photos/IMG_7660.HEIC.png> <./img/photos/IMG_7662.HEIC.png>]
 \openout2 = `content/References.aux'.
 
  (./content/References.tex
@@ -356,24 +369,24 @@ Overfull \hbox (13.38019pt too wide) in paragraph at lines 5--7
 \OT1/cmr/m/n/12 https://civiltoday.com/civil-engineering-materials/brick/132-brick-composition-ingredients-
  []
 
-) [10
+) [12
 
 
 
-] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux)) ) 
+] (./main.aux (./content/title.aux) (./content/acknowledgement.aux) (./content/about.aux) (./content/composition.aux) (./content/blockdiagram.aux) (./content/ProposedSystem.aux) (./content/Discussion.aux) (./content/photos.aux) (./content/References.aux)) ) 
 Here is how much of TeX's memory you used:
- 2592 strings out of 477985
- 48058 string characters out of 5840058
- 1858388 words of memory out of 5000000
- 22697 multiletter control sequences out of 15000+600000
+ 2697 strings out of 476038
+ 51728 string characters out of 5794174
+ 1860779 words of memory out of 5000000
+ 23033 multiletter control sequences out of 15000+600000
  520138 words of font info for 57 fonts, out of 8000000 for 9000
- 26 hyphenation exceptions out of 8191
- 57i,8n,62p,935b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/rapzy/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1200.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on main.pdf (13 pages, 356069389 bytes).
+ 1153 hyphenation exceptions out of 8191
+ 57i,8n,62p,926b,335s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb>
+Output written on main.pdf (15 pages, 356249180 bytes).
 PDF statistics:
- 90 PDF objects out of 1000 (max. 8388607)
- 45 compressed objects within 1 object stream
+ 97 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 101 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
